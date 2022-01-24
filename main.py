@@ -24,7 +24,7 @@ def main():
   @client.event 
   async def on_ready():
       
-      await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name="a unos imbeciles"))
+      await client.change_presence(activity=nextcord.Activity(type=nextcord.ActivityType.watching, name="a unos imbeciles "))
       
       print(" bot is online")
   

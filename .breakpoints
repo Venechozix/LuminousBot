@@ -1,5 +1,13 @@
 {
   "files": {
+    "comandos/help/help_command.py": [
+      {
+        "id": "c6029b91-a197-4bc5-9a3f-2cdcb4ec36b7",
+        "line": 46,
+        "version": 1316,
+        "index": 1572
+      }
+    ],
     "main.py": [
       {
         "id": "5e9fe876-72b9-4ac5-a882-ce9a4e4d4701",
